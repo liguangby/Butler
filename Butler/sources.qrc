@@ -1,0 +1,66 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sources/login.gif</file>
+        <file>sources/regist.gif</file>
+        <file>sources/cow.gif</file>
+        <file>images/close_0.png</file>
+        <file>images/close_1.png</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file>images/uesr_p.png</file>
+        <file>images/user_down.png</file>
+        <file>images/user_enter_0.png</file>
+        <file>images/user_enter_1.png</file>
+        <file>images/user_exit_0.png</file>
+        <file>images/user_exit_1.png</file>
+        <file>images/user_ligin.png</file>
+        <file>images/user_n.png</file>
+        <file>images/user_regist_0.png</file>
+        <file>images/user_regist_1.png</file>
+        <file>images/user_up.png</file>
+        <file>images/back.png</file>
+        <file>images/baby.png</file>
+        <file>images/M.png</file>
+    </qresource>
+    <qresource prefix="/regist">
+        <file>images/user/user_regist_background.png</file>
+        <file>images/user/user_regist_cancle_0.png</file>
+        <file>images/user/user_regist_cancle_1.png</file>
+        <file>images/user/user_regist_ok_0.png</file>
+        <file>images/user/user_regist_ok_1.png</file>
+        <file>images/user/user_email.png</file>
+        <file>images/user/user_name.png</file>
+        <file>images/user/user_pass.png</file>
+        <file>images/user/user_password.png</file>
+        <file>images/user/user_phone.png</file>
+        <file>images/user/user_question.png</file>
+    </qresource>
+    <qresource prefix="/add_user_data">
+        <file>images/add_0.png</file>
+        <file>images/add_1.png</file>
+        <file>images/backup.png</file>
+        <file>images/cancle_0.png</file>
+        <file>images/cancle_1.png</file>
+        <file>images/time.png</file>
+        <file>images/money.png</file>
+        <file>images/type.png</file>
+    </qresource>
+    <qresource prefix="/mainwindows">
+        <file>images/mainwindows/calculator.png</file>
+        <file>images/mainwindows/dataadd.png</file>
+        <file>images/mainwindows/delete.png</file>
+        <file>images/mainwindows/pen.png</file>
+        <file>images/mainwindows/printer.png</file>
+        <file>images/mainwindows/logout.png</file>
+        <file>images/mainwindows/unlock.png</file>
+        <file>images/mainwindows/archives.png</file>
+        <file>images/mainwindows/arrow_down.png</file>
+        <file>images/mainwindows/arrow_up.png</file>
+        <file>images/mainwindows/credit_card_back.png</file>
+        <file>images/mainwindows/database.png</file>
+        <file>images/mainwindows/time_clock.png</file>
+        <file>images/baby1.png</file>
+        <file>images/mainwindows/star.png</file>
+        <file>images/mainwindows/star_3.png</file>
+    </qresource>
+</RCC>
